@@ -1,4 +1,4 @@
-# Hey there, I'm Louie 👋
+# Hey there, I'm Elias 👋
 
 [My Website](https://eliaslouie.netlify.app/)
 
