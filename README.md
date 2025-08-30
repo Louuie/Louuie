@@ -1,7 +1,7 @@
 # Hi 👋 My name is Elias
 
-## Computer Science Student @ [California State University, Channel Islands](csuci.edu)
-## Camera Systems Intern @ [SAAZ](saaz.com) 
+## Computer Science Student @ [California State University, Channel Islands](https://www.csuci.edu/)
+## Camera Systems Intern @ [SAAZ](https://saaz.com/) 
 
 You can contact me at [eliasdandouch@gmail.com](mailto:eliasdandouch@gmail.com)
 
