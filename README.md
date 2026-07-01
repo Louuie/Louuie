@@ -1,6 +1,6 @@
 # Hi 👋 My name is Elias
 
-## Associate Software Enginner - Edge AI & Systems @ [SAAZ](https://saaz.com/) 
+## Associate Software Engineer - Edge AI & Systems @ [SAAZ](https://saaz.com/) 
 
 You can contact me at [eliasdandouch@gmail.com](mailto:eliasdandouch@gmail.com)
 
